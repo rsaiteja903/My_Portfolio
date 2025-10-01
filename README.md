@@ -1,12 +1,23 @@
-# React + Vite
+# ⚛️ React + Vite Portfolio Starter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal, production-ready setup for building scalable React applications using Vite. This template reflects my frontend engineering style—semantic theming, custom animation keyframes, and clean ESLint architecture.
 
-Currently, two official plugins are available:
+## 🔧 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React + Vite**: Fast HMR, modular build setup
+- **Tailwind CSS**: Utility-first styling with theme toggling and animation layers
+- **ESLint**: Configured for clarity and consistency
+- **Optional TypeScript**: Easily extendable for type-aware linting and scalable codebases
 
-## Expanding the ESLint configuration
+## 🚀 Plugins
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) — Babel-based Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) — SWC-based Fast Refresh
+
+## 📐 ESLint Expansion
+
+For production-grade apps, I recommend integrating TypeScript with [`typescript-eslint`](https://typescript-eslint.io) and enabling type-aware rules. See the [React + TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for a clean starting point.
+
+## 🧠 About Me
+
+I'm Sai Teja Rajaboyina — a Master's candidate in Computer Science at UNT (Dec 2025), passionate about scalable product development, semantic UI systems, and full-stack engineering. This repo is part of my portfolio showcasing theme-aware, visually distinctive web architecture.
